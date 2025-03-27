@@ -52,7 +52,7 @@ CAGB 7 - computer room
   - Build a shared OneNote
   - [x] Build a shared GitHub Repo 
   - Build a shared codespace
-  - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDept](https://prosperity.imc.com/dashboard)
+  - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
 
 
 Folder with previous data, backtest data - opportunities to select strategy
