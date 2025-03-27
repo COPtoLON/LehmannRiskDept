@@ -50,7 +50,7 @@ CAGB 7 - computer room
   - In general there may be a stable product and a range of other products
 4. Build a proper Research/Analysis, Development and implementation pipeline.
   - Build a shared OneNote
-  - [x] Build a shared GitHub Repo 
+  - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
   - Build a shared codespace
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
 
