@@ -7,11 +7,11 @@ An inspired tribute to the hardworking men and women, making sure the housing cr
 ## Team
 | Roles | Name | Notes | 
 | - | - | - |  
-| All-over | Minjae | - | 
+| All-over - Code - Algo | Minjae | - | 
 | All-over | Saeid | - | 
 | All-over | James | - | 
 | All-over | Raymond | Restricted times tuesdays and thursdays | 
-| All-over | Mark | - | 
+| All-over - Code - Manual | Mark | - | 
 
 ## Times and meetings
 Physical meetings at Imperial College London, South Kensington Campus, London SW7 2AZ, Main entrance at 8AM every day
@@ -20,7 +20,7 @@ CAGB 7 - computer room
 | Dates | Name | Notes | 
 | - | - | - |  
 | 27/03 | First online meeting | - | 
-| 29/03 | Meeting at Barbican Library | - | 
+| 29/03 | Meeting at Barbican Library | Going through Repos <br> Initial ideas <br> Battleplan <br> search for data <br> Go through IMC wiki <br> Go through of datamodel.py <br> Go through relevant concepts for each round | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
 | 07/04 | Round 1 | - | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
@@ -35,7 +35,17 @@ CAGB 7 - computer room
 | ... | End | ... | 
 
 ## Notes
+Folder with previous data, backtest data - opportunities to select strategy
+Read through our repo.
+Consider your ideas of a best strategy moving forward round 1.
 
+Someone to find Previous data.
+
+Go through algo wiki
+
+Consider different parts of the datamodel
+
+Consider 
 
 ### Problems
 1. Find relevant data from previous years (or relevant challenges)
@@ -49,23 +59,11 @@ CAGB 7 - computer room
   - The rounds may look alike from past years, but can be scrambled together, the order is inconsistent
   - In general there may be a stable product and a range of other products
 4. Build a proper Research/Analysis, Development and implementation pipeline.
-  - Build a shared OneNote
+  - [ ] Build a shared OneNote
   - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
-  - Build a shared codespace
+  - [ ] Build a shared codespace
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
 
-
-Folder with previous data, backtest data - opportunities to select strategy
-Read through our repo.
-Consider your ideas of a best strategy moving forward round 1.
-
-Someone to find Previous data.
-
-Go through algo wiki
-
-Consider different parts of the datamodel
-
-Consider 
 
 
 
