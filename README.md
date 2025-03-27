@@ -34,20 +34,38 @@ CAGB 7 - computer room
 | ... | Ad-hoc meetings | physical + zoom for distance | 
 | ... | End | ... | 
 
-## Execution notes
-
-Data/problems maybe are the same as previous years.
+## Notes
 
 
-How long are the rounds?
+### Problems
+1. Find relevant data from previous years (or relevant challenges)
+  - Find relevant data files from previous years in the list of relevant partners
+  - Upload the relevant data into the LehmannRiskDept/DATA folder 
+2. Find relevant problems(+ solutions?) from previous years (or relevant challenges)
+  - Upload these to the LehmannRiskDept/RESOURCES folder 
+3. What do we know about the challenge?
+  - How long are the rounds?
+  - There are 5 rounds
+  - The rounds may look alike from past years, but can be scrambled together, the order is inconsistent
+  - In general there may be a stable product and a range of other products
+4. Build a proper Research/Analysis, Development and implementation pipeline.
+  - Build a shared OneNote
+  - [x] Build a shared GitHub Repo 
+  - Build a shared codespace
+  - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDept](https://prosperity.imc.com/dashboard)
 
-5 rounds
 
-Round 1 - Market making
-Stable product - buy / sell
+Folder with previous data, backtest data - opportunities to select strategy
+Read through our repo.
+Consider your ideas of a best strategy moving forward round 1.
 
+Someone to find Previous data.
 
-Round 2 -
+Go through algo wiki
+
+Consider different parts of the datamodel
+
+Consider 
 
 
 
