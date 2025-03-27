@@ -60,7 +60,7 @@ Consider
   - The rounds may look alike from past years, but can be scrambled together, the order is inconsistent
   - In general there may be a stable product and a range of other products
 4. Build a proper Research/Analysis, Development and implementation pipeline.
-  - [ ] Build a shared OneNote
+  - [ ] Build a shared OneNote - [Shared OneNote](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK)
   - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
   - [ ] Build a shared codespace
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
