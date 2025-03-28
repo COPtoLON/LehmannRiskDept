@@ -21,7 +21,7 @@ CAGB 7 - computer room
 | Dates | Name | Notes | 
 | - | - | - |  
 | 27/03 | First online meeting | - | 
-| 29/03 | Meeting at Barbican Library | Going through Repos <br> Initial ideas <br> Battleplan <br> search for data <br> Go through IMC wiki <br> Go through of datamodel.py <br> Go through relevant concepts for each round | 
+| 29/03 | Meeting at Barbican Library | Going through Repos <br> Initial ideas <br> Battleplan <br> search for data <br> Go through IMC wiki <br> Go through of datamodel.py <br> Go through of relevant concepts for each round in IMC2 | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
 | 07/04 | Round 1 | - | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
