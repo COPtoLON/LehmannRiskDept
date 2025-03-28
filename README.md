@@ -8,8 +8,8 @@ An inspired tribute to the hardworking men and women, making sure the housing cr
 ## Team
 | Roles | Name | Notes | 
 | - | - | - |  
-| All-over - Code - Algo | Minjae | - | 
 | All-over | Saeid | - | 
+| All-over - Code - Algo | Minjae | - | 
 | All-over | James | - | 
 | All-over | Raymond | Restricted times tuesdays and thursdays | 
 | All-over - Code - Manual | Mark | - | 
@@ -36,17 +36,11 @@ CAGB 7 - computer room
 | ... | End | ... | 
 
 ## Notes
-Folder with previous data, backtest data - opportunities to select strategy
-Read through our repo.
-Consider your ideas of a best strategy moving forward round 1.
-
-Someone to find Previous data.
-
-Go through algo wiki
-
-Consider different parts of the datamodel
-
-Consider 
+- We need to go through this [list - waiting for Saeid]().To read up on previous strategies for each round, make our own notes and talk about them. \
+1. We all need to read through Saeid's List of previous competitors (& perhaps also current competitors)
+2. We need to find previous years datasets or other relevant datasets to backtest against.
+3. We need to build ideas on how to best solve the challenges for each round
+4. Note down everything and anything you find relevant in each of the "Ideas - Name" Pages![image](https://github.com/user-attachments/assets/ab636132-3836-4b25-a3f5-603ebd102643)
 
 ### Problems
 1. Find relevant data from previous years (or relevant challenges)
