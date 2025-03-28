@@ -36,28 +36,37 @@ CAGB 7 - computer room
 | ... | End | ... | 
 
 ## Notes
-- We need to go through this [list - waiting for Saeid]().To read up on previous strategies for each round, make our own notes and talk about them. \
-1. We all need to read through Saeid's List of previous competitors (& perhaps also current competitors)
-2. We need to find previous years datasets or other relevant datasets to backtest against.
-3. We need to build ideas on how to best solve the challenges for each round
-4. Note down everything and anything you find relevant in each of the "Ideas - Name" Pages![image](https://github.com/user-attachments/assets/ab636132-3836-4b25-a3f5-603ebd102643)
-
-### Problems
-1. Find relevant data from previous years (or relevant challenges)
-  - Find relevant data files from previous years in the list of relevant partners
-  - Upload the relevant data into the LehmannRiskDept/DATA folder 
-2. Find relevant problems(+ solutions?) from previous years (or relevant challenges)
-  - Upload these to the LehmannRiskDept/RESOURCES folder 
-3. What do we know about the challenge?
-  - How long are the rounds?
-  - There are 5 rounds
-  - The rounds may look alike from past years, but can be scrambled together, the order is inconsistent
-  - In general there may be a stable product and a range of other products
 4. Build a proper Research/Analysis, Development and implementation pipeline.
   - [ ] Build a shared OneNote - [Shared OneNote](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK)
   - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
   - [ ] Build a shared codespace
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
+
+
+### Proposition 1. We need to go through Saeid's list of previous competitors (& Perhaps also current competitors)
+We all need to read through Saeid's List of previous competitors (& perhaps also current competitors)
+We need to go through this [list - waiting for Saeid]().To read up on previous strategies for each round, make our own notes and talk about them. \
+2. Find relevant problems(+ solutions?) from previous years (or relevant challenges)
+  - Upload these to the LehmannRiskDept/RESOURCES folder 
+
+### Proposition 2. We need to get a hold of relevant data
+We need to find previous years datasets or other relevant datasets to backtest against.
+1. Find relevant data from previous years (or relevant challenges)
+  - Find relevant data files from previous years in the list of relevant partners
+  - Upload the relevant data into the LehmannRiskDept/DATA folder 
+
+### Proposition 3. We need to find our ideas for strategies to run in each round
+We need to build ideas on how to best solve the challenges for each round.
+3. What do we know about the challenge?
+  - How long are the rounds?
+  - There are 5 rounds
+  - The rounds may look alike from past years, but can be scrambled together, the order is inconsistent
+  - In general there may be a stable product and a range of other products
+
+### Proposition 4. 
+Note down everything and anything you find relevant in each of the "Ideas - Name".
+If any of us comes up with something novel, something that works or just any tiny idea to improve on already good ideas, we will move ahead.
+
 
 
 
