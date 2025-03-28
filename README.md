@@ -36,12 +36,15 @@ CAGB 7 - computer room
 | ... | End | ... | 
 
 ## Notes
-4. Build a proper Research/Analysis, Development and implementation pipeline.
-  - [ ] Build a shared OneNote - [Shared OneNote](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK)
+To be able to best share and work together we will need to build up a proper Research/Analysis process, as well as a proper Development and implementation pipeline. So far, this is what we've got
+  - [x] Build a shared OneNote - [Shared OneNote](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK)
   - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
-  - [ ] Build a shared codespace
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
+  - [ ] Build a shared database
+  - [ ] Build a shared codespace
 
+
+To continue further I believe these are the tasks at hand ~ Mark
 
 ### Proposition 1. We need to go through Saeid's list of previous competitors (& Perhaps also current competitors)
 We all need to read through Saeid's List of previous competitors (& perhaps also current competitors)
