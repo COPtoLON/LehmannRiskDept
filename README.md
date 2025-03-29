@@ -3,7 +3,7 @@ An inspired tribute to the hardworking men and women, making sure the housing cr
 
 [A totally inconspicuous link to our company business trip](https://prosperity.imc.com/dashboard) - Lehmann Bros Risk Dept.\
 2.15K at the moment - 7K goal \
-[Why not put the loans into trenches?](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK) - you know instead of Tranches.
+[Why not put the loans into trenches?](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK) - you know instead of Tranches.\
 [The resources](https://docs.google.com/spreadsheets/d/1F2swva__22l0v-kW1LVTK_IsROBGYCtU/edit?gid=1210604425#gid=1210604425)
 ## Team
 | Roles | Name | Notes | 
