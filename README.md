@@ -21,8 +21,11 @@ CAGB 7 - computer room
 
 | Dates | Name | Notes | 
 | - | - | - |  
-| 27/03 | First online meeting | - | 
-| 29/03 | Meeting at Barbican Library | Going through Repos <br> Initial ideas <br> Battleplan <br> search for data <br> Go through IMC wiki <br> Go through of datamodel.py <br> Go through of relevant concepts for each round in IMC2 | 
+| 27/03 6:00 PM to 7:00 PM | First online meeting | - | 
+| 29/03 10:00 AM to 1:00 PM | Meeting at Barbican Library | Going through Repos <br> Initial ideas <br> Battleplan <br> search for data <br> Go through IMC wiki <br> Go through of datamodel.py <br> Go through of relevant concepts for each round in IMC2 | 
+| 31/03 4:00 PM | Zoom meeting | Saeid goes through Options theory <br> Minjae will go through IMC documentation <br> GitHub version control walk-through | 
+| 02/04 6:30 PM to 7:30 PM | Zoom meeting | agenda unknown | 
+| 04/04 Time unknown | Zoom meeting | agenda unknown | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
 | 07/04 | Round 1 | - | 
 | ... | Ad-hoc meetings | physical + zoom for distance | 
@@ -41,6 +44,7 @@ To effectively collaborate, we need both a strong research/analysis process and 
   - [x] Build a shared OneNote - [Shared OneNote](https://1drv.ms/o/s!AgNEZJcB63U7hvoeLgN6gnu_aKbdrg?e=ZxdFYK)
   - [x] Build a shared GitHub Repo - [Github Repo](https://github.com/COPtoLON/LehmannRiskDept)
   - [x] Build a shared IMC Island - [Dashboard - LehmannBrosRiskDep](https://prosperity.imc.com/dashboard)
+  - [ ] Build a shared flowchart - [Flowchart](https://miro.com/app/board/uXjVIJ6ec2o=/)
   - [ ] Build a shared database
   - [ ] Build a shared codespace
 
